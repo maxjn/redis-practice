@@ -10,6 +10,11 @@ This is a Practical **Nextjs** project for practicing **Redis** with **Node.js**
 
 ## Features
 
+- Connecting to **Redis**
+- Adding only **unique** data
+- Work with **Hashes**
+- Work with **Sorted Sets**
+
 ## Installation
 
 First add **.env.local file**. then:

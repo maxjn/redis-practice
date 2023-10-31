@@ -1,6 +1,6 @@
 "use server";
 
-import { client } from "../../utils/db";
+import { client } from "@/utils/db";
 import { redirect } from "next/navigation";
 import { v4 as uuidv4 } from "uuid";
 

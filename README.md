@@ -14,6 +14,7 @@ This is a Practical **Nextjs** project for practicing **Redis** with **Node.js**
 - Adding only **unique** data
 - Work with **Hashes**
 - Work with **Sorted Sets**
+- Getting Data with **Pipeline**
 
 ## Installation
 
@@ -27,4 +28,4 @@ node run dev
 
 ## Screenshots
 
-![Cover](./cover.png)
+![Cover](./public/cover.webp)

@@ -1,6 +1,6 @@
 # Redis Practice
 
-This is a Practical **Nextjs** project for practicing **Redis** with **Node.js**.
+These are some Practical projects for practicing **Redis** with **Node.js**.
 
 ## Technologies
 
@@ -10,22 +10,19 @@ This is a Practical **Nextjs** project for practicing **Redis** with **Node.js**
 
 ## Features
 
-- Connecting to **Redis**
-- Adding only **unique** data
-- Work with **Hashes**
-- Work with **Sorted Sets**
-- Getting Data with **Pipeline**
+- Redis Core
+- Redis Cach
 
 ## Installation
 
-First add **.env.local file**. then:
+Go with the instructions of each project
 
 ```shell
 npm install
 
-node run dev
+---instructions
 ```
 
 ## Screenshots
 
-![Cover](./public/cover.webp)
+![Cover](./redis-core/public/cover.webp)
